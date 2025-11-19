@@ -57,8 +57,3 @@ Uses the heavy-weight `bert_en_uncased_L-12_H-768_A-12` encoder from TensorFlow 
 
 ## Conclusion
 The **Modified BERT** model achieved the highest performance (**81.1% accuracy**), demonstrating that large-scale pre-trained transformers significantly outperform models trained from scratch on this dataset size. The Universal Sentence Encoder also performed strongly with lower computational complexity than BERT.
-
-***
-
-### Next Steps
-Would you like me to generate the Python code to perform inference using the saved BERT model?
